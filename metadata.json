@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Entrevistas CREE",
+  "description": "Aplicación de toma de entrevistas para apoderados y estudiantes con exportación a PDF y sincronización con Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
